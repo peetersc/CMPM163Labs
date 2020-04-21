@@ -132,14 +132,16 @@
 			//var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 			var material = new THREE.MeshPhongMaterial( { color: 0xdddddd, 
 				specular: 0x00ff00, shininess: 30 });
-			var material3 = new THREE.MeshPhongMaterial({ color: 0x155551,
-				specular: 0x922201, shininess: 5, emissive:0xFFC0CB, wireframe:true});
+			var material3 = new THREE.MeshNormalMaterial({ color: 0x155551,
+				specular: 0x922201, shininess: 5, emissive:0xFFC0CB, wireframe:false});
 
 
 			var cube = new THREE.Mesh( geometry, material );
 			scene.add(cube);
 			var cube1 = new THREE.Mesh( geometry, material3);
 			scene.add(cube1);
+			var cube2 = new THREE.Mesh( geometry, material3);
+			scene.add(cube2);
 
 			// add the light
 			var light = new THREE.PointLight(0xffffff, 1, 1000);
@@ -156,6 +158,8 @@
 				}
 				renderer.render(scene, camera);
 				cube1.position.y = -2;
+				cube2.position.y = 2;
+
 			}
 			animate();
 
