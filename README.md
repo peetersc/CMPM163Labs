@@ -1,6 +1,6 @@
 # CMPM163Labs
 
-lab4:
+**lab4:**
 video link: https://drive.google.com/file/d/1QkUAiWr50jjeJyz0P6A5Ej4OMn59Bh6E/view?usp=sharing
 
 cube 1:
@@ -19,7 +19,7 @@ cube 5:
 - tile texture made by performing claculations in the fragment shader.
 - I solved this by creating a new vec 2 that was almost double the vUv vec2 and then performed a modulus operation on both the x and y parts of the new vector by 1.0.
 
-Questions from Lab:
+**Questions from Lab:**
 
 a) What is the formula given a u value of the uv coordinate (a value between 0 and 1), I get the x value of the pixel to sample from in this 8x8 texture?
     
@@ -34,7 +34,7 @@ c) What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (s
     - The color is grey.
 
 
-lab3: https://drive.google.com/file/d/1zXYlh6g8A_hYIIJxuvV1UadZ0YkqL02M/view?usp=sharing
+**lab3:** https://drive.google.com/file/d/1zXYlh6g8A_hYIIJxuvV1UadZ0YkqL02M/view?usp=sharing
 
 Cube1:
     - my fragment shader made with interpolation  0xABFFCC 0xFFC0CB
@@ -50,6 +50,6 @@ Cube5:
     
 
 
-lab2: https://drive.google.com/file/d/1um7rsxItelPrQJbGDyNUcufro9Pta85l/view?usp=sharing
+**lab2:** https://drive.google.com/file/d/1um7rsxItelPrQJbGDyNUcufro9Pta85l/view?usp=sharing
 ![](lab2/models.png)
 
