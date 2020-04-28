@@ -20,6 +20,7 @@ cube 5:
 - I solved this by creating a new vec 2 that was almost double the vUv vec2 and then performed a modulus operation on both the x and y parts of the new vector by 1.0.
 
 Questions from Lab:
+
 a) What is the formula given a u value of the uv coordinate (a value between 0 and 1), I get the x value of the pixel to sample from in this 8x8 texture?
     
     - x = 7u
