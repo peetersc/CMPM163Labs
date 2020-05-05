@@ -1,5 +1,20 @@
 # CMPM163Labs
-
+**lab5:**
+Part 1 Unity Video: 
+- video link: https://drive.google.com/file/d/1Mgkkc54P_2yrHORn6RATcaNfAG4zAf0Y/view?usp=sharing
+- made different color paritcles and some game modifications (i.e. professor cubes, more paritcles, world color)
+	- Made the cubes by adding a primitive cube to the world and texturing it with a image
+	- Duplicated and modified the partcle from the tutorial
+	- changed the intensity and color of the overall light
+	- also changed and made the song playing as background music
+	
+Part 2 Particles:
+- Moving around the static paritcles: https://drive.google.com/file/d/1hjAm-FRq2t2ZRm_zjWI95OsXueBM4zr1/view?usp=sharing
+- Explosion paritcles: https://drive.google.com/file/d/1je5qpaSQKNmpu7j7OpoJKYPr5vxdsw8O/view?usp=sharing
+- Custom Breathing Particle Effect: https://drive.google.com/file/d/1wtlgmZdiv7mG_RDfibBRTbTka8Z2ABCE/view?usp=sharing
+	- made by making an offset variable and reseting the position by alternating adding and subtracting of position and velocity vectors.
+	- also added color changing hue and texture from the previouse parts.
+	
 **lab4:**
 video link: https://drive.google.com/file/d/1QkUAiWr50jjeJyz0P6A5Ej4OMn59Bh6E/view?usp=sharing
 
