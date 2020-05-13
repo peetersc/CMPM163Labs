@@ -1,4 +1,34 @@
 # CMPM163Labs
+**lab6:**
+part1:
+ScreenShot: 
+![](lab6/part1.png)
+
+Light Definitions:
+    - point:
+        - simulates rays shining out from one infinitely small point in space.
+
+    - spot:
+        - a lamp projecting a narrow, intense beam of light directly on to a place or person, especially a performer on stage.
+
+    - directional:
+        -  lighting that travels in a specific direction that highlights a specific object or work surface.
+
+    - area:
+        - a light that casts directional light rays from within a set boundary, either a rectangle or circle
+
+Two Textured Objects:
+    - A brick wall:
+    - used a diffuse material and brick repeating pattern to make a brick wall.
+    ![](lab6/bricksx64.png)
+
+    - Sand:
+    - used a diffuse material with a sand repeating pattern to make sand.
+    ![](lab6/Sand2.png)
+
+Skybox:
+    - a skybox of a sun set.
+
 **lab5:**
 Part 1 Unity Video: 
 - video link: https://drive.google.com/file/d/1Mgkkc54P_2yrHORn6RATcaNfAG4zAf0Y/view?usp=sharing
