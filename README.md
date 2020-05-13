@@ -30,6 +30,7 @@ Skybox:
     - a skybox of a sun set.
 
 **lab5:**
+
 Part 1 Unity Video: 
 - video link: https://drive.google.com/file/d/1Mgkkc54P_2yrHORn6RATcaNfAG4zAf0Y/view?usp=sharing
 - made different color paritcles and some game modifications (i.e. professor cubes, more paritcles, world color)
