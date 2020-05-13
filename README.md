@@ -5,7 +5,8 @@ ScreenShot:
 ![](lab6/part1.png)
 
 Light Definitions:
-    - point:
+   
+   - point:
         - simulates rays shining out from one infinitely small point in space.
 
     - spot:
@@ -24,7 +25,7 @@ Two Textured Objects:
 
     - Sand:
     - used a diffuse material with a sand repeating pattern to make sand.
-    ![](lab6/Sand2.png)
+    ![](lab6/Sand2.jpg)
 
 Skybox:
     - a skybox of a sun set.
