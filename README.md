@@ -5,9 +5,6 @@ ScreenShot:
 ![](lab6/part1.png)
 
 Light Definitions:
-   
-   - point:
-        - simulates rays shining out from one infinitely small point in space.
 
     - spot:
         - a lamp projecting a narrow, intense beam of light directly on to a place or person, especially a performer on stage.
@@ -17,14 +14,16 @@ Light Definitions:
 
     - area:
         - a light that casts directional light rays from within a set boundary, either a rectangle or circle
+	
+    - point:
+        - simulates rays shining out from one infinitely small point in space.
 
 Two Textured Objects:
+
     - A brick wall:
-    - used a diffuse material and brick repeating pattern to make a brick wall.
-    ![](lab6/bricksx64.png)
+    - used a diffuse material and brick repeating pattern to make a brick wall. ![](lab6/bricksx64.png)
     - Sand:
-    - used a diffuse material with a sand repeating pattern to make sand.
-   ![](lab6/Sand2.jpg)
+    - used a diffuse material with a sand repeating pattern to make sand. ![](lab6/Sand2.jpg)
 
 Skybox:
     - a skybox of a sun set.
