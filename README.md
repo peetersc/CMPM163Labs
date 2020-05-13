@@ -22,10 +22,12 @@ Two Textured Objects:
 
     - A brick wall:
     - used a diffuse material and brick repeating pattern to make a brick wall. 
-    ![](lab6/bricksx64.png)
+   ![](lab6/bricksx64.png)
+    
     - Sand:
     - used a diffuse material with a sand repeating pattern to make sand. 
-    ![](lab6/Sand2.jpg)
+    
+   ![](lab6/Sand2.jpg)
 
 Skybox:
     - a skybox of a sun set.
