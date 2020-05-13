@@ -36,6 +36,7 @@ Part 2:
     - Correct Aspect Ratio ScreenShot:
     ![](lab6/part2.png)
     - Link to Shadertoy project: https://www.shadertoy.com/view/tsSfRR
+    
     - Link to a cool project: https://www.shadertoy.com/view/lsX3W4
     
 **lab5:**
