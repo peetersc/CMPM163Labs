@@ -1,5 +1,22 @@
 # CMPM163Labs
 **lab6:**
+part2:
+terrain with height map:
+![](lab7/dirt.png)
+
+terrain with different texutre:
+![](lab7/snow.png)
+
+wavy blue plane:
+https://drive.google.com/file/d/1IWgxIf0umVbIHVpS8-57XDUg7NeTJIOP/view?usp=sharing
+
+mountain + water scence:
+https://drive.google.com/file/d/1kK37267K7kmanxf5vft7AW4l9cIzLfC4/view?usp=sharing
+
+Partner Questions:
+Partners were unreachable 
+
+**lab6:**
 part1:
 ScreenShot: 
 ![](lab6/part1.png)
