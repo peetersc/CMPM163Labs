@@ -1,5 +1,5 @@
 # CMPM163Labs
-**lab6:**
+**lab7:**
 part2:
 terrain with height map:
 ![](lab7/dirt.png)
