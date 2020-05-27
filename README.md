@@ -1,4 +1,15 @@
 # CMPM163Labs
+**lab8**
+Inspiration: Roseville
+![](lab8/roseville.jpg)
+
+Video of Generated City:
+https://drive.google.com/file/d/1zKpImw89H-9HO8yPLI93jTOIYb_-n3iw/view?usp=sharing
+
+Design:
+Rosville has a lot of smaller housing type building with lots of grass and water spots so I added a water prefab and streets.
+
+
 **lab7:**
 part2:
 terrain with height map:
