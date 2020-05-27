@@ -1,6 +1,7 @@
 # CMPM163Labs
 **lab8**
 Inspiration: Roseville
+
 ![](lab8/roseville.jpg)
 
 Video of Generated City:
