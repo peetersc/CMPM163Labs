@@ -1,10 +1,10 @@
 # CMPM163Labs
 **lab9**
 Screen Shot of L-system tutorial
-![](lab9/part1_1.png)
+![](Lab9/part1_1.png)
 
 Screen Shot of My L-System
-![](lab9/part1_2.png)
+![](Lab9/part1_2.png)
 - L-System made from following the rules of Sierpinski triangle.
 
 **lab8**
